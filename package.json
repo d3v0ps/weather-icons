@@ -1,15 +1,16 @@
 {
-  "name": "weather-icons",
+  "name": "@d3v0ps/weather-icons",
 	"version": "2.0.12",
   "description": "222 weather themed icons inspired by Font Awesome and ready for Bootstrap",
   "scripts": {},
   "authors": [
-    "Erik Flowers <erik@helloerik.com>"
+    "Erik Flowers <erik@helloerik.com>",
+    "Aitor Llamas <aitorllj93@gmail.com>"
   ],
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {},
-  "homepage": "https://erikflowers.github.io/weather-icons/",
+  "homepage": "https://d3v0ps.github.io/weather-icons/",
 	"keywords": [
 		"css", "icon-font", "weather", "icon", "icons"
 	]
